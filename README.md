@@ -12,6 +12,16 @@ they also worked in markdown.
 
 <br />
 
+```markdown
+
+# Important dates 
+
+<br />
+
+28/10/20 - 9/11/20 : Term Break 
+
+```
+
 Assessments | Weighing | Due date
 ----------- | -------- | ---------
 Journals & practice labs | 25% | 30/10/2020
