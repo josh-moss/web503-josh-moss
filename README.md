@@ -8,8 +8,9 @@
 For our first class this week in Web503 we had a look into the course outline 
 and the assessments that are required this semester.The last class was similar. 
 We then made tables that had the assessment information for this semester as a 
-little activity. One little problem I have come across today was using breakpoints. 
-I knew that you could use them in HTML but I was unaware they also worked in markdown. 
+little activity. One problem I have come across today was using breakpoints. 
+I knew that you could use them in HTML but I was unaware they also worked in
+markdown. 
 ```
 <br />
 
