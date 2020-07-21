@@ -2,10 +2,6 @@
 
 <br />
 
-## WeekOne 
-
-<br />
-
 ## Important dates 
 
 28/10/20 - 9/11/20 : Term Break <br />
@@ -20,6 +16,8 @@ Static web app | 25% | Not set
 Dynamic web app | 25% | Not set
 
 <br />
+
+## WeekOne 
 
 ```markdown
 For our first class this week in Web503 we had a look into the course outline 
