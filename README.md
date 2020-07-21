@@ -14,7 +14,7 @@ they also worked in markdown.
 
 ## Important dates 
 
-28/10/20 - 9/11/20 : Term Break 
+28/10/20 - 9/11/20 : Term Break <br />
 26/10/20 : Labour day
 
 <br />
